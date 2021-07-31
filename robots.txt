@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://berapakah.herokuapp.com/host-https-brainly.co.id/sitemap-new.xml
